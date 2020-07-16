@@ -1,9 +1,9 @@
 
 #SpringCloud-Hystrix工作原理&源码
 
-# 附：Hystrix源码图
+# 附：个人画的Hystrix源码图
 
-![图片](https://uploader.shimo.im/f/xhxSiQnwvKYwN2nL.png!thumbnail)
+![图片](https://uploader.shimo.im/f/TXApMl0gkceW0TKl.jpg!thumbnail)
 # 一、断路器简介
 # 二、demo演示hystrix
 # 三：[Hystrix](https://github.com/Netflix/Hystrix)流程图 
